@@ -47,10 +47,3 @@ Before running the API, ensure you have the following prerequisites installed on
 
 Provide a brief overview of the API endpoints and how to interact with them. If there is detailed API documentation available, include a link to it here.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
